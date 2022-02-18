@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\loops2.exe
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\loops2.deps.json
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\loops2.runtimeconfig.json
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\loops2.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\loops2.dll
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\ref\loops2.dll
+C:\Users\Bekir\Desktop\test\loops2\loops2\bin\Debug\net5.0\loops2.pdb
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.dll
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\ref\loops2.dll
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.pdb
+C:\Users\Bekir\Desktop\test\loops2\loops2\obj\Debug\net5.0\loops2.genruntimeconfig.cache

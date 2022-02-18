@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\loop3.exe
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\loop3.deps.json
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\loop3.runtimeconfig.json
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\loop3.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\loop3.dll
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\ref\loop3.dll
+C:\Users\Bekir\Desktop\test\loop3\loop3\bin\Debug\net5.0\loop3.pdb
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.dll
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\ref\loop3.dll
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.pdb
+C:\Users\Bekir\Desktop\test\loop3\loop3\obj\Debug\net5.0\loop3.genruntimeconfig.cache

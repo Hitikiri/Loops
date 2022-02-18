@@ -1,0 +1,16 @@
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\loop5.exe
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\loop5.deps.json
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\loop5.runtimeconfig.json
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\loop5.runtimeconfig.dev.json
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\loop5.dll
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\ref\loop5.dll
+C:\Users\Bekir\Desktop\test\loop5\loop5\bin\Debug\net5.0\loop5.pdb
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.csproj.AssemblyReference.cache
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.AssemblyInfoInputs.cache
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.AssemblyInfo.cs
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.csproj.CoreCompileInputs.cache
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.dll
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\ref\loop5.dll
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.pdb
+C:\Users\Bekir\Desktop\test\loop5\loop5\obj\Debug\net5.0\loop5.genruntimeconfig.cache
